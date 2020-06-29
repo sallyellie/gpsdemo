@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS Demo</string>
+    <string name="display_coordinates_hint">Click the button below</string>
+    <string name="get_coordinates_button">Get Current Location</string>
+    <string name="clear_markers_button">Clear Markers</string>
+    <string name="latitude_label">LAT:</string>
+    <string name="longitude_label">LON:</string>
+
+</resources>
